@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./public/assets/banner" width="190px"/> 
+<img src="./public/assets/banner.png" style="max-width: 100%;"/> 
 </p>
 <h1 align="center">💚 Ecoleta  </h1>
 <h3 align="center">🚧 Work in progress 🚧 </h3>
