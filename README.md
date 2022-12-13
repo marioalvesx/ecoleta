@@ -6,7 +6,7 @@
 <p>
 
 ## ♻️ Sobre o que é este projeto?
-O Ecoleta é uma aplicação full stack (Back-end, Front-End e mobile) desenvolvida a partir da StackJS.
+O Ecoleta é uma aplicação full stack (Back-end, Front-End e mobile) desenvolvida a partir da StackJS em comemoração a semana do meio-ambiente.
 Aqui as empresas de coletas de resíduos orgânicos e inorgânicos ficarão disponíveis às pessoas que desejam descartar seus resíduos de maneira ecológica
 através do compartilhamento de imagem do ponto de coleta, nome da entidade, email, whatsapp, endereço e um ou mais ítens disponíveis na aplicação para seleção.
 
